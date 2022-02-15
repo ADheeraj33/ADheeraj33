@@ -5,7 +5,7 @@
 - 📫 How to reach me -
 - Mail ID - dheeraj.aripirala@gmail.com
 - Instagram - @adheeraj332
-- Discord - @OceanBlaze332#9812
+- 
 <!---
 ADheeraj33/ADheeraj33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
